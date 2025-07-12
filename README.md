@@ -1,4 +1,9 @@
-
+Team Name:-Team 1725
+Team Details:-
+Shikhar Srivastava
+Navyansh Raj
+Harsh Sabharwal
+Raj Mate
 # 🚀 Project Bridge
 
 [![Live Project](https://img.shields.io/badge/Live-Demo-blue)](https://project-bridge.onrender.com/)
